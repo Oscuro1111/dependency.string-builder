@@ -1,7 +1,5 @@
 
-
-
-build:
+build: 
 	@cd objs&&make build
 	@echo "build"
 clean:
