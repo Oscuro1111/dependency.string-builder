@@ -1,4 +1,5 @@
 temp
+objs/*.o
 bin
 .ccls-cache
 .vscode
